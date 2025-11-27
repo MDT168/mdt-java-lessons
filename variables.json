@@ -1,6 +1,6 @@
 {
   "title": "المتغيرات",
   "task_title": "مقياس درجة الحرارة",
-  "text": "*int*\n# Bad Boy",
+  "text": "*int*\n# Bad Boy\n```This is a code block```",
   "task_text": "Hello Task"
 }
