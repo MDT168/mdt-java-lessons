@@ -1,6 +1,6 @@
 {
   "title": "المتغيرات",
   "task_title": "مقياس درجة الحرارة",
-  "text": "*int*\n# Bad Boy\n```This is a code block```",
-  "task_text": "Hello Task"
+  "text": "Here's how to declare a variable:\n\n```java\nint temperature = 25;\nString message = \"Hello World\";\ndouble price = 19.99;\n```\n\nThis creates integer, string, and double variables.",
+  "task_text": "Create a variable:\n\n```java\nint score = 100;\n```"
 }
