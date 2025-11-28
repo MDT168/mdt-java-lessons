@@ -1,7 +1,6 @@
 {
   "lessons": [
     "starting_out.json",
-    "variables.json",
-    "test.json"
+    "variables.json"
   ]
 }
