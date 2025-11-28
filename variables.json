@@ -1,6 +1,6 @@
 {
   "title": "المتغيرات",
   "task_title": "مقياس درجة الحرارة",
-  "text": "Here's how to declare a variable:\n\n```java\nint temperature = 25;\nString message = \"Hello World\";\ndouble price = 19.99;\n```\n\nThis creates integer, string, and double variables.",
+  "text": "*Hello Bold*",
   "task_text": "Create a variable:\n\n```java\nint score = 100;\n```"
 }
