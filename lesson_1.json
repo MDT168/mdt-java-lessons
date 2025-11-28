@@ -1,0 +1,6 @@
+{
+  "task_text": "Task content goes here...",
+  "task_title": "Test Tasl",
+  "text": "\u003ccode\u003eint i \u003d 5;\nint n \u003d 3;\nSystem.out.println(i + fuckme);\u003c/code\u003e",
+  "title": "المتغيرات"
+}
