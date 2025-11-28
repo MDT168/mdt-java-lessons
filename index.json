@@ -1,3 +1,5 @@
 {
-  "lessons": []
+  "lessons": [
+    "variables.json"
+  ]
 }
