@@ -2,5 +2,5 @@
   "title": "المتغيرات",
   "task_title": "مقياس درجة الحرارة",
   "text": "*Hello Bold*",
-  "task_text": "<header>Create a variable</header>\n<red>This is red</red> <b>bold</b>"
+  "task_text": "<header>Create a variable</header>\n<red>This is red</red> <b>bold</b>\n<code>int num = 5;</code>"
 }
