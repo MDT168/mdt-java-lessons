@@ -2,6 +2,7 @@
   "lessons": [
     "intro.json",
     "arrays.json",
+    "arrays_2D.json",
     "classes.json" 
   ]
 }
