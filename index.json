@@ -1,6 +1,7 @@
 {
   "lessons": [
     "intro.json",
+    "arrays.json",
     "classes.json" 
   ]
 }
