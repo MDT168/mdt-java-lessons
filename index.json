@@ -1,6 +1,7 @@
 {
   "lessons": [
     "intro.json",
+    "scanner.json",
     "while_loop.json",
     "arrays.json",
     "arrays_2D.json",
