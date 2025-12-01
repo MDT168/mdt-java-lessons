@@ -34,7 +34,7 @@
 <header>مثال كامل على تطبيق Encapsulation</header>\n\
 <code>public class Person {</code>\n\
 <code>    private String name;</code>\n\
-<code    private int age;</code>\n\
+<code>    private int age;</code>\n\
 <code>    public void setName(String name) {</code>\n\
 <code>        this.name = name;</code>\n\
 <code>    }</code>\n\
