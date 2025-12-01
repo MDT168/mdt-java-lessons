@@ -2,6 +2,7 @@
   "lessons": [
     "intro.json",
     "comparison.json",
+    "variables.json",
     "scanner.json",
     "while_loop.json",
     "arrays.json",
